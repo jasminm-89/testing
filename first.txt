@@ -1,2 +1,2 @@
-added in second/forth commit
+deleted in 5 commit
 added in third commit
