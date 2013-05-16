@@ -1,4 +1,4 @@
 Moved down
-for stashing
+ stashing
 
 added in featurex branch
